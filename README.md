@@ -24,16 +24,16 @@ Aula foi planejada para:
 # Pré-requisitos <img height="60em" align="right" src="https://img.icons8.com/?size=512&id=114426&format=png"/>
 - [ ] Ter visto a aula anterior.
 - [ ] Fork do repositório - [Link](https://github.com/Dariellysantos/aula-proposta-educadevas) .
-- [ ] Clone o fork na minha máquina (`git clone url-do-meu-fork`).
+- [ ] Clone o fork na sua máquina (`git clone url-do-meu-fork`).
 
 # Propósito <img height="60em" align="right" src="https://img.icons8.com/?size=512&id=102717&format=png"/>
 
 - Apresentar para que é ultilizado uma API.
 - Mostrar o que é o protocolo HTTP.
-- Exemplificar Request e response atraves do GET e POST.
-- Fazer uma Requisição e uma Response atras do cURL.
+- Exemplificar Request e response através do GET e POST.
+- Fazer uma Requisição e uma Response através do cURL.
 - Mostrar o Postman.
-- Fazer uma Requisição e uma Response atras do Postman.
+- Fazer uma Requisição e uma Response através do Postman.
 - Exercitar a pesquisa.
 - Colocar em prática o que foi apresentado.
 
